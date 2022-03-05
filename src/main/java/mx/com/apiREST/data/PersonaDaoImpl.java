@@ -1,9 +1,9 @@
-package mx.com.gm.data;
+package mx.com.apiREST.data;
 
 import java.util.List;
 import javax.ejb.Stateless;
 import javax.persistence.*;
-import mx.com.gm.domain.Persona;
+import mx.com.apiREST.domain.Persona;
 
 @Stateless
 public class PersonaDaoImpl implements PersonaDao{

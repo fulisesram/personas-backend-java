@@ -1,7 +1,7 @@
-package mx.com.gm.data;
+package mx.com.apiREST.data;
 
 import java.util.List;
-import mx.com.gm.domain.Persona;
+import mx.com.apiREST.domain.Persona;
 
 public interface PersonaDao {
     

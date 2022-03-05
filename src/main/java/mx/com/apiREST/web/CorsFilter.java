@@ -1,4 +1,4 @@
-package mx.com.gm.web;
+package mx.com.apiREST.web;
 
 import java.io.IOException;
 import javax.ws.rs.container.ContainerRequestContext;

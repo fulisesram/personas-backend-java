@@ -1,4 +1,4 @@
-package mx.com.gm.domain;
+package mx.com.apiREST.domain;
 
 import java.io.Serializable;
 import javax.persistence.*;

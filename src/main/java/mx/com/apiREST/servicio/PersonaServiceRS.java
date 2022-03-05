@@ -1,4 +1,4 @@
-package mx.com.gm.servicio;
+package mx.com.apiREST.servicio;
 
 import java.util.List;
 import javax.ejb.Stateless;
@@ -6,8 +6,8 @@ import javax.inject.Inject;
 import javax.ws.rs.*;
 import javax.ws.rs.core.*;
 import javax.ws.rs.core.Response.Status;
-import mx.com.gm.data.PersonaDao;
-import mx.com.gm.domain.Persona;
+import mx.com.apiREST.data.PersonaDao;
+import mx.com.apiREST.domain.Persona;
 
 
 @Stateless
